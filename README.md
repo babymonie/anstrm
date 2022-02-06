@@ -20,7 +20,7 @@ an npm package to download anime episodes for free.
 ## Usage/Examples
 
 ```javascript
-const {DownloadEpisode,StreamEpisode} = require('anstrm');
+const {DownloadEpisode} = require('anstrm');
 const express = require('express');
 const app = express();
 const port = process.env.PORT || 3000;
