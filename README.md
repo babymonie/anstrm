@@ -6,6 +6,7 @@ an npm package to download anime episodes for free.
 
 ## Acknowledgements
  - downloading or streaming anime without paying or without license is illegal, Please be careful using this package.
+ - direct download links will not be provided.
 ## Authors
 
 - [@babymonie](https://github.com/babymonie)
@@ -57,8 +58,8 @@ Yes it is.
 
 Why is some anime's not working?
 
-we scrape from a website and sometimes they dont have the anime your looking for,
-most popular anime's should have downloads.
+1 we scrape from animekisa.tv and sometimes they dont have the anime your looking for,
+most popular anime's should have downloads,or try changing the english title to a japanese title.
 ## Things to do
 
 - add a streaming function to stream anime.
